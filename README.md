@@ -7,8 +7,7 @@ Senior Technology Architect
 I have 16+ years of experience in application design, development, automation, and delivery using Agile. Have been working with clients, competency managers, testing team, operations, and other development team to meet the delivery requirement and components that meet client needs with respect to functionality, performance, scalability, and reliability with realistic implementation schedule.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Linkedin](http://in.linkedin.com/in/amitverma001)
-*   🚀  I'm currently working on [Finance Project](http://amitvsolutions.github.io/)
+*   🖥️  See my portfolio at [GitHub](http://amitvsolutions.github.io)
 *   🤝  I'm open to collaborating on Cloud Projects
 
 ### Skills 
